@@ -1,0 +1,1 @@
+console.log("bismillah "+"kya haal hai shanur");
